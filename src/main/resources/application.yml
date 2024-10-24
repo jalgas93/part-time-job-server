@@ -2,7 +2,7 @@ spring:
   datasource:
     driver-class-name: org.postgresql.Driver
     #url: jdbc:postgresql://localhost:5432/part_time_db
-    url: jdbc:postgresql://dpg-crpuq856l47c73aqdog0-a.singapore-postgres.render.com:5432/part_time_db?user=jobs&password=KjUsXBLxW0pyGHgBSQSS3IZ97916ilJQ
+    url: jdbc:postgresql://dpg-csc86dtds78s738kevg0-a.singapore-postgres.render.com:5432/part_time_server_db?user=parttimejobs&password=QnPhcYd2WFiIWIYiFMrvqONLBUWbavDb
     username: jobs
     password: "KjUsXBLxW0pyGHgBSQSS3IZ97916ilJQ"
   jpa:
